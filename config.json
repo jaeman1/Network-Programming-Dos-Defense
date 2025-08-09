@@ -1,0 +1,5 @@
+{
+  "threshold": 100,
+  "block_duration_minutes": 5,
+  "interface": "eth0"
+}
